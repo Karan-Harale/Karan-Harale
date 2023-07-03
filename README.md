@@ -1,7 +1,7 @@
 
 
 <body>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNhamhya25yc2MyY2ttemFxcWpubDR0d3BnMmoyMXhoazRpOGp1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/200.gif" > Hi there 
+Hi there 
 </body>
 <!--
 **Karan-Harale/Karan-Harale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
