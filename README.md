@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Karan 👨‍🎓</h1>
 <h3 align="center">Open Source Enthusiast</h3>
-<img src="https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif" width="600" height="350">
+<img src="https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif" text-align:"center" width="600" height="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-harale&label=Profile%20views&color=0e75b6&style=flat" alt="karan-harale" /> </p>
 
