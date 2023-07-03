@@ -1,4 +1,4 @@
-<img src="https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif" width="1000" height="500">
+<img src="https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif" width="1000" height="400">
 <h1 align="center">Hello 👋, I'm Karan 👨‍🎓</h1>
 <h3 align="center">Open Source Enthusiast</h3>
 
