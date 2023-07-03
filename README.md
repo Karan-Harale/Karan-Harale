@@ -1,11 +1,8 @@
-<div > 
 
 <h1 align="center">Hello 👋, I'm Karan 👨‍🎓 </h1>
 <h3 align="center">Open Source Enthusiast</h3>
 <img src="https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif"  width="950" height="400">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-harale&label=Profile%20views&color=0e75b6&style=flat" alt="karan-harale" /> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
