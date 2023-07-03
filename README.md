@@ -1,6 +1,6 @@
-<body>
+<div > 
 
-<h1 align="center">Hello 👋, I'm Karan 👨‍🎓 </h1>
+<h1 align="center" color="#FFFF00">Hello 👋, I'm Karan 👨‍🎓 </h1>
 <h3 align="center">Open Source Enthusiast</h3>
 <img src="https://blog.hcltechsw.com/wp-content/uploads/2020/06/iot_1.gif"  width="950" height="400">
 
@@ -21,7 +21,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-harale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-harale/" height="30" width="40" /></a>
 </p>
-</body>
+</div>
+
+
+
 <!--
 **Karan-Harale/Karan-Harale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
