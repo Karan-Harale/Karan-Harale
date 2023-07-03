@@ -1,5 +1,5 @@
 <body>
-  <h1 style="background-color:red;">hello</h1>
+  <h1 style="color:red;">hello</h1>
 </body>
 
 <!--
