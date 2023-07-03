@@ -20,8 +20,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-harale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-harale/" height="30" width="40" /></a>
 </p>
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRld282dTl3dzRzbG1tZnB4cjY0aWhqZTMycXV2YnQ4YWpsMWt1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnxpQ3ghPiB2Hp6/200.gif">
 </body>
 <!--
 **Karan-Harale/Karan-Harale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
