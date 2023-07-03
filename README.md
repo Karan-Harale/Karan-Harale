@@ -1,4 +1,4 @@
-<body  width="500" height="500" background-color="white">
+<body  width="500" height="500" color="white">
 
 <h1 align="center">Hello 👋, I'm Karan 👨‍🎓 </h1>
 <h3 align="center">Open Source Enthusiast</h3>
