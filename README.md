@@ -1,6 +1,9 @@
-<body>
- <h1 style="color: pink; background-color: Teal;">Flowers by Ana</h1>
-</body>
+<!doctype html>
+<html>
+  <body>
+    <h1 style="color: pink; background-color: Teal;">Flowers by Ana</h1>
+  </body>
+</html>
 
 <!--
 **Karan-Harale/Karan-Harale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
