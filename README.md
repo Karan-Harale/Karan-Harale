@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Karan 👨‍🎓 </h1>
 <h3 align="center">Open Source Enthusiast</h3>
-<img src="https://www.hspmsolutions.com/others/Images/soft.gif"  width="750" height="300">
+<img src="https://www.hspmsolutions.com/others/Images/soft.gif"  width="750" height="300" align ="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-harale&label=Profile%20views&color=0e75b6&style=flat" alt="karan-harale" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
